@@ -1,1 +1,1 @@
-Hello from git repo
+Starting to code today, so cool
